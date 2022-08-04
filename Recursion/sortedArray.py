@@ -1,3 +1,4 @@
+#check whether given array is sorted or not
 arr=[1,2,3,4,5,44,6]
 
 def sorted(arr,index=0):
